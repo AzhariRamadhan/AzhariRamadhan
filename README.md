@@ -4,7 +4,8 @@
 ![logo](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![logo](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![logo](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![logo](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge) 
+![logo](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h1 align="center">Hi 👋, I'm Azhari Ramadhan</h1>
 <h3 align="center">A passionate as Pentesting,Ethical Hacking and Data Scientist in indonesia</h3>
 
