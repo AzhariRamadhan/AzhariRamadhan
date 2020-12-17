@@ -21,7 +21,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@AzhariRamadhan](https://medium.com/@AzhariRamadhan)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **Linux**, **Security**
 
 - 📫 How to reach me **azhari.ramadhan0902@gmail.com**
 
