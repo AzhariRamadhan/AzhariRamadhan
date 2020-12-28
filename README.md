@@ -21,7 +21,7 @@ My busy life now is as a freelance worker, especially a bug bounty hunter, apart
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzhariRamadhan/](https://github.com/AzhariRamadhan/)
 
-- 📝 I regulary write articles on [https://medium.com/@AzhariRamadhan](https://medium.com/@AzhariRamadhan)
+- 📝 I regulary write articles on [https://azhariramadhan.medium.com/](https://azhariramadhan.medium.com/)
 
 - 💬 Ask me about **Python**, **Linux**, **Security**
 
