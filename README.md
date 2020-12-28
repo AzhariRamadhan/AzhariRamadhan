@@ -7,7 +7,9 @@
 ![logo](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h1 align="center">Hi 👋, I'm Azhari Ramadhan</h1>
-<h3 align="center">A passionate as Pentesting,Ethical Hacking and Data Scientist in indonesia</h3>
+<h3 align="center">I build new projects just to tickle my brain and love teaching others how they're made.
+
+My busy life now is as a freelance worker, especially a bug bounty hunter, apart from hacking and security issues, I also work on data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhariramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="azhariramadhan" /> </p>
 
