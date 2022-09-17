@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=azhari35&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=azhari35&redirect=true)
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=azhari35&cover_image=true&theme=default&bar_color_cover=false" /></div>  
